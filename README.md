@@ -7,4 +7,4 @@
 * KNeighbors ML algoritması kullanıldı. 'n_neighbors' parametresi Grid_Searcg_CV kütüphanesi kullanılarak bulundu.**
 * Modelin doğruluk oranı %92 olarak bulundu.**
 * Hata ortalama kareler toplamı(MSE) = 0.072, Hata ortalama kareler toplamının karekökü(RMSE) = 0.269 hataları bulundu.**
-* Model farklı  veri setleri ile test edilerek performansına bakıldı.Ortalama Doğruluk Performansı =%92, Doğruluk Skoru Standart Sapması = %0.13 olarak bulundu.**
+* Model farklı  veri setleri ile test edilerek performansına bakıldı.Ortalama Doğruluk Performansı =%92, Doğruluk Skoru Standart Sapması = %0.13 olarak bulundu.
