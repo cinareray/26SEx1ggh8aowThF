@@ -1,4 +1,4 @@
-# 26SEx1ggh8aowThF
+KNeighborsclassifier Makine Öğrenimi Modeli
 
 * Veri setindeki değişkenlerin ısı haritasına bakıldı ancak %70 üzeri bağımlı değişken görülmediği için indirgenme yapılmadı.
 * Veriler One-Hat döüşümü uygulanarak çok kategorili değişkenlerin standartdizasyon işlemi gerçekleştirildi.
